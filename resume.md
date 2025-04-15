@@ -3,8 +3,6 @@
 **Phone:** (XXX) XXX-XXXX  
 **Email:** XXXXXX@gmail.com  
 [bajablast.site](https://bajablast.site)  
-[eldritchelections.netlify.app](https://eldritchelections.netlify.app)  
-[mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)  
 [GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)
 
 ---
