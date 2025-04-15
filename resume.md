@@ -2,10 +2,10 @@
 
 **Phone:** (XXX) XXX-XXXX  
 **Email:** XXXXXX@gmail.com  
- [bajablast.site](https://bajablast.site)  
- [eldritchelections.netlify.app](https://eldritchelections.netlify.app)  
- [mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)  
- [GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)
+[bajablast.site](https://bajablast.site)  
+[eldritchelections.netlify.app](https://eldritchelections.netlify.app)  
+[mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)  
+[GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)
 
 ---
 
@@ -17,13 +17,16 @@ Multidisciplinary designer blending narrative, frontend development, and systems
 
 ## Education & Honors
 
-**Eastern Washington University** — *B.A. in Design (Expected June 2025)*  
+**Eastern Washington University** — *BDes in Visual Communication Design (Expected June 2025)*  
 Minors: Game Design, Philosophy, Psychology  
 Certificate: Front-End Web Development  
-**Graduating with Honors**
+**Graduating with Honors**  
+*Took one year of French*
 
 **Spokane Falls Community College** — *Associate of Arts (2023)*  
 **President’s Award** recipient
+
+**Joel E. Ferris High School** — *High School Diploma (2015)*
 
 ---
 
@@ -39,18 +42,18 @@ Certificate: Front-End Web Development
 
 ## Featured Projects
 
-###  *Mint Street Massacre* — Board Game  
+### *Mint Street Massacre* — Board Game  
 A noir-themed hidden role game where sapient household objects navigate betrayal and survival. Features player elimination, resource manipulation, and deep thematic design.
 
-###  *Eldritch Elections* — Narrative Game (Construct 3)  
+### *Eldritch Elections* — Narrative Game (Construct 3)  
 Cthulhu runs for mayor in a morally ambiguous campaign. A text-based branching narrative exploring power, corruption, and agency.  
-🔗 [eldritchelections.netlify.app](https://eldritchelections.netlify.app)
+[eldritchelections.netlify.app](https://eldritchelections.netlify.app)
 
-###  *Mint Street Parallax Scroll* — Procedural Web Animation  
+### *Mint Street Parallax Scroll* — Procedural Web Animation  
 A dynamic HTML/CSS/JS scroll effect using vanishing-point math and procedural logic to tell a symbolic visual story.  
-🔗 [mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)
+[mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)
 
-###  *Custom Dialogue Engine* — JavaScript/JSON  
+### *Custom Dialogue Engine* — JavaScript/JSON  
 Developed a scrolling text system supporting branching paths, timed reveals, and emotional pacing for interactive narratives.
 
 ---
@@ -62,7 +65,7 @@ Developed a scrolling text system supporting branching paths, timed reveals, and
 - Led a top-performing team; optimized Zendesk workflows with automation and macros  
 - Identified operational bottlenecks and implemented systemic improvements
 
-### First Security Bank — Teller 
+### First Security Bank — Teller  
 *Port Townsend, WA | Feb 2021 – May 2021*  
 - Handled transactions accurately and maintained customer trust under pressure
 
@@ -101,6 +104,7 @@ Developed a scrolling text system supporting branching paths, timed reveals, and
 ## Experimental & Ethical Media
 
 - Created a Queen Elizabeth II deepfake to explore AI ethics and narrative dissonance  
+  [Watch it here](https://www.youtube.com/watch?v=swO7Cup2ag4&t=114s)  
 - Investigate symbolic systems and storytelling potential in emerging technologies
 
 ---
