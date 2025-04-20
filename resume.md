@@ -2,6 +2,7 @@
 
 **Phone:** (XXX) XXX-XXXX  
 **Email:** XXXXXX@gmail.com  
+**Address:** XXXXX east XX avenue XXXX Washington 99XXX
 [Portfolio Website](https://bajablast.site)  
 [GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)  
 
