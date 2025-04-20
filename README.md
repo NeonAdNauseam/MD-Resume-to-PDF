@@ -12,6 +12,7 @@
 * Install Markdown to PDF module with `npm install md-to-pdf`
 * Run the command `npx md-to-pdf resume.md` to generate a PDF file from the Markdown file
     - Note: replace `resume.md` with your own file name
+    npx md-to-pdf resume.md --stylesheet style.css
 
 # Citations
 * npm Module: [Markdown to PDF](https://www.npmjs.com/package/md-to-pdf)
