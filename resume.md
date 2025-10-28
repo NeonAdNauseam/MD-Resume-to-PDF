@@ -1,29 +1,25 @@
 # Neon Kaiser
 
-**Phone:** (XXX) XXX-XXXX  
-**Email:** XXXXXX@gmail.com  
-**Address:** XXXXX east XX avenue XXXX Washington 99XXX
-[Portfolio Website](https://bajablast.site)  
+**Phone:** (509) 992-8963
+**Email:** neonkaiser77@gmail.com  
+**Address:** 1030 Hammack Court Nashville Tennessee 37214
 [GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)  
 
 ---
 
 ## Summary
 
-Multidisciplinary designer seeking roles in **junior web development** or **narrative/game design**.  
-Blends storytelling, frontend development, and systems thinking to create immersive, emotionally resonant experiences.  
-Proficient in HTML, CSS, JavaScript, and Figma, with a passion for ethical design, collaboration, and experimental media.  
-Known for empathy, mentorship, and a sharp eye for structure and interaction.
+I recently moved to Nashville from Spokane Washington, and am looking to meet new people and gain new experiences. I graduated in June of 2025 majoring in design. I'm a well rounded individual who really enjoys helping people. I care deeply about ethics and love discussing new ideas.
 
 ---
 
 ## Education & Honors
 
 **Eastern Washington University** — BDes in Visual Communication Design  
-*Expected June 2025*  
+June 2025
 Minors: Game Design, Philosophy, Psychology  
 Certificate: Front-End Web Development  
-Graduating with Honors  
+Graduated magna cum laude
 Completed one year of French coursework
 
 **Spokane Falls Community College** — Associate of Arts (2023)  
@@ -78,12 +74,11 @@ Built a vanishing-point-based scroll animation using HTML/CSS/JS.
 Visual narrative layered with symbolic systems and procedural logic.  
 [mintstreetvanish.netlify.app](https://mintstreetvanish.netlify.app)
 
-**Custom Dialogue Engine** — JavaScript/JSON  
-Engine supports branching paths, emotional pacing, and timed reveals for interactive narrative applications.
-
 **Zen Tracker** — Mindfulness Dashboard  
 Developed a fully interactive dashboard featuring procedural cherry blossoms, ripple-reactive background, dynamic time/quotes, and an audio easter egg.  
-Includes a live counter labeled “Days Since Edward Bernays Died.”
+Includes a live counter labeled “Days Since Edward Bernays Died.” 
+[cherryblossomzentracker.netlify.app](cherryblossomzentracker.netlify.app)
+
 
 ---
 
