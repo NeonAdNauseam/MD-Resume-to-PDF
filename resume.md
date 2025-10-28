@@ -3,13 +3,14 @@
 **Phone:** (509) 992-8963
 **Email:** neonkaiser77@gmail.com  
 **Address:** 1030 Hammack Court Nashville Tennessee 37214
-[GitHub – NeonAdNauseam](https://github.com/NeonAdNauseam)  
+**Website:** [https://bajablast.site](https://bajablast.site)  
+**Github:** [https://github.com/NeonAdNauseam](https://github.com/NeonAdNauseam)  
 
 ---
 
 ## Summary
 
-I recently moved to Nashville from Spokane Washington, and am looking to meet new people and gain new experiences. I graduated in June of 2025 majoring in design. I'm a well rounded individual who really enjoys helping people. I care deeply about ethics and love discussing new ideas.
+I recently moved to Nashville from Spokane Washington, and am looking to meet new people and gain new experiences. I graduated in June of 2025 from Eastern Washington University, majoring in design. I'm a well rounded individual who really enjoys helping people. I care deeply about ethics and love discussing new ideas.
 
 ---
 
